@@ -1,0 +1,2 @@
+# MySlideshow-training
+ドットインストール　MySlideshow
